@@ -6,7 +6,7 @@
 
 ### Description
 
-For the first assignment, you will make a personal website. Take what you've learned from class and build a "about me" site that can work as a living resume and portfolio.
+For the second assignment, you will make a personal website. Take what you've learned from class and build a "about me" site that can work as a living resume and portfolio.
 
 Build two pages - an 'About Page' and a 'Portfolio' - that link to one another. Your 'About Page' should describe your mission and value proposition and your 'Portfolio' should include images with descriptions of work you have done, or plan to do!
 
