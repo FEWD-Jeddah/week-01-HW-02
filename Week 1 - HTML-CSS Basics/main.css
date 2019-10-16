@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    
+}
+
+.box1{
+    border-width: 1px;
+    border-style: solid;
+    background-color: #eeeeef;
+    margin: 80px;
+    padding: 20px;
+}
+
+#top{
+    text-align: center;
+    font-family: Kunstler Script;
+    border-bottom: 1px solid grey;
+
+}
+
+.right-sec{
+    right: 0;
+
+
+}
+
+
+.leftt-sec{
+    left: 0;
+
+}
+
+h2{
+    font-family: Cambria;
+}
+
+p{
+    font-family: Calibri light;
+}
