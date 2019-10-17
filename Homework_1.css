@@ -1,0 +1,100 @@
+h1 {
+    
+}
+a {
+  background-color: #FC452B;
+}
+h1 {
+  color: #008080;
+  
+}
+h2 {
+  color: #0000CD
+  
+}
+h3 {
+  color: #0000CD
+}
+p {
+  color: #3E606F
+}
+li {
+  color: #3E606F
+}
+a {
+  color: #FFF
+}
+
+
+
+body {
+
+  background-color: rgb(174, 236, 174);
+}
+
+
+
+h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+.paioimage {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+img {
+  border-radius: 50%;
+}
+
+
+
+
+.JAGDAMI {
+  border: none; /* Remove borders */
+  color: 	rgb(255, 255, 255); /* Add a text color */
+  padding: 18px 25px; /* Add some padding */
+  cursor: pointer; /* Add a pointer cursor on mouse-over */
+}
+
+
+
+
+.textali
+{
+
+text-combine-upright: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
