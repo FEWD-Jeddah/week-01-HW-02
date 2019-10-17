@@ -1,0 +1,30 @@
+
+
+body{
+    background-color:cornsilk;
+    border: solid 3px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+}
+#main{
+    font-style: italic;
+    padding: 0px;
+    
+}
+h3{
+    text-decoration: underline;
+}
+h4{
+    text-decoration: underline;
+}
+#main-footer{
+    text-align: center;
+}
+#pi{
+    color: blue;
+    text-align: center;
+}
+a:hover{
+    color: red;
+}
