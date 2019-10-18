@@ -1,6 +1,6 @@
 body
     {
-    background-color: rgb(248, 248, 246);
+    background-color: rgb(255, 255, 255);
         /* background-image: url ("vission.jpg") ;
     background-repeat: repeat-x; */
     /*background-color: azure;*/
@@ -18,13 +18,13 @@ body
         border-top: 5px  #050005 le solid;
         border-radius: 30px;
         border-style: initial;
-        background-color: rgb(236, 236, 218);
+        background-color: rgb(195, 173, 201);
 
     }
 
     #idV
     {
-        color: rgb(219, 82, 28);
+        color: rgb(160, 38, 144);
         text-align: center;
         text-decoration: overline ;
         font-family: Tahoma;
@@ -52,7 +52,7 @@ body
     
     #idVal
     {
-        color: rgb(74, 197, 101);
+        color: rgb(77, 190, 175);
         text-align: center;
         text-decoration: overline ;
         font-family: Tahoma;
@@ -78,8 +78,8 @@ body
       .imagee1 {
         display: block;
         margin-left: auto;
-        margin-right: auto; 
-        width: 19%;
+        margin-right: auto;
+        width: 55%;
       }
 
       .imagesoci {
@@ -89,4 +89,27 @@ body
         width: 6%;
       }
 
-      /*
+       /* Container needed to position the overlay. Adjust the width as needed */
+.container {
+    position: relative;
+    width: 30%;
+  }
+  
+  /* When you mouse over the container, the overlay text will "zoom" in display */
+.container:hover .overlay {
+    transform: scale(0.9);
+  }
+  
+  /* The overlay effect (full height and width) - lays on top of the container and over the image */
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(243, 214, 241);
+    overflow: hidden;
+    width: 35%;
+    height: 35%;
+    transform: scale(0);
+    transition: .3s ease;
+  }
