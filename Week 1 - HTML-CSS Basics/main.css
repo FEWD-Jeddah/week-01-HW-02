@@ -93,6 +93,12 @@ p{
     border-radius: 50%;
   }
 
+.wi{
+    display: inline;
+    border-image: 2px;
+    
+}
+
 .tp{
       text-align: center;
   }
