@@ -1,0 +1,111 @@
+p
+{
+    color:white;
+    font-size: 20px;
+}
+h1
+{
+    color:red;
+    font-family: Times New Roman;
+}
+h2
+{
+    color:blue;
+    font-family: Times New Roman;
+
+}
+h3
+{
+    color:black;
+    font-family: Times New Roman;
+    font-size: 20px;
+
+}
+
+a
+{
+    font-size: 25px;
+    color:red;
+    font-family:Courier New;
+    
+}
+
+.body {
+    background-color:bisque;
+  }
+
+
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  li
+  {
+      color:black;
+  }
+
+  .border
+  {
+      border-block-color: white;
+  }
+ 
+  
+
+  #content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 24px;
+    right: 10px;
+}
+
+h4
+{
+    color:red;
+    font-family: Times New Roman;
+  
+}
+
+h5
+{
+    color:green;
+    font-family: Times New Roman;
+  
+
+}
+
+h6
+{
+    color:gray;
+    font-family: Times New Roman;
+  
+}
+
+.Contact img
+{
+width: 30px;
+
+}
+
+.Contact span
+{
+    margin: 2%;
+
+}
+.Contact
+{
+    margin: 5% 0 5 25%;
+    width: 65%;
+}
+
+.header1
+{
+    background-color:blanchedalmond;
+}
+
+
