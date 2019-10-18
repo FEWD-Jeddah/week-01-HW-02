@@ -1,0 +1,18 @@
+h1{
+    font-family:arial;
+    background-color:grey;
+    color:white;
+    text-align:center;
+    font-size:x-large;
+}
+
+p,h2{
+    background-color: grey;
+    color:white;
+    font-size:x-large;
+    font-family:arial;
+    display:inline;
+    position: relative;
+    left : 50px; 
+    top:30px;
+}

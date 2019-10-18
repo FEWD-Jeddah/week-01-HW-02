@@ -1,0 +1,63 @@
+
+h1{
+    color:lightskyblue;
+    font-family:fantasy;
+    text-decoration-line: underline;
+    background-color:lightslategray;
+    width: 1250px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+p{
+    font-family: fantasy;
+    color:white;
+    width:1250px;   
+    font-size: 150%;
+}
+li {
+    position: relative;
+    left : 50px; 
+    top:30px;
+  color:white;
+  font-family:fantasy
+ 
+
+}
+h2{
+    position: relative;
+    left : 50px; 
+    top:30px;
+    color:lightskyblue;
+    font-family:fantasy
+ 
+}
+
+header {
+    background-color:lightslategrey;
+    text-align: center;
+    color:lightskyblue;
+  }
+  nav {
+    float: left;
+    width: 30%;
+   
+  }
+ 
+  article {
+    float: left;
+    width: 70%;
+    
+   
+  }
+  section:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+
+
+
