@@ -1,0 +1,141 @@
+
+body{
+
+    /* background-color: rgb(78, 165, 78) */
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+  background-image: url('header1.png.jpg')
+  
+}
+
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-style: normal;
+    font-size: 50px;
+    background-color: rgb(77, 71, 71); width: 50%; margin: 0 auto;
+    border: rgb(36, 34, 34) solid;
+    border-radius: 10px;
+    
+
+
+    
+}
+
+h2{
+
+
+    background-color: rgb(77, 68, 68); width: 50%; height: 100%; border: black solid;
+    color: whitesmoke;
+    text-align: center;
+    
+}
+
+h3{
+    text-align: center;
+    color: whitesmoke;
+    font-style: oblique;
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+p{
+    font-size: 20px;
+    font-style: oblique;
+    color:whitesmoke;
+    text-anchor: middle;
+    
+    
+    
+    
+    
+
+}
+
+li{
+
+    font-size: 25px;
+    font-style: oblique;
+    color:whitesmoke;
+}
+
+a{
+
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 30px;
+
+    
+    
+}
+
+#Photos:hover{
+
+    background-color:  rgb(255, 255, 255);
+    border-radius: 10px;
+    color: rgb(165, 31, 31);
+    padding: 10px;
+    text-decoration: dashed;
+    
+    
+    
+
+
+    
+}
+
+
+
+.social_imgs{
+
+    text-align: center;
+    background-color: rgb(41, 41, 87);
+    border: rgb(31, 31, 66) solid; 
+    
+    
+}
+
+
+
+
+
+#Main_Page:hover{
+
+    background-color:  rgb(255, 255, 255);
+    border-radius: 10px;
+    color: rgb(255, 81, 0);
+    padding: 10px;
+    text-decoration: dashed;
+
+
+}
+
+
+#Main_Page{
+
+    background-color: rgb(77, 71, 71);
+    color: whitesmoke;
+    border-radius: 10px;
+    padding: 10px;
+    border: black solid;
+}
+
+
+#Images{
+
+
+    width: 800px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding:1px;
+
+    
+
+
+
+
+}
