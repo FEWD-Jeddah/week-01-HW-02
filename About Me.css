@@ -1,0 +1,38 @@
+h1{
+    color:rgba(212, 190, 63, 0.521); 
+    background-color: rgba(241, 239, 236, 0.774); 
+    width:800px;
+    font-family: cursive;
+    font-size:40px;
+}
+
+h2{
+    color: rgb(209, 169, 60) 
+}
+
+h2{
+    font-style: italic;
+    font-family: fantasy;
+    font-size: 35px;
+    text-shadow: 2px 2px 8px rgba(192, 204, 27, 0.699);
+}
+
+ol{
+    font-family: fantasy;
+}
+
+img{
+    width:600px;
+       
+}
+
+H1 {
+    border: 7px double;
+    border-color:black  
+ }
+H3{
+    color:rgba(87, 86, 84, 0.377) 
+}
+H3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
