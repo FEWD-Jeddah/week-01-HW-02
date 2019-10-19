@@ -1,0 +1,37 @@
+
+p{
+    color: rgb(82, 78, 78);
+}
+
+.class1{
+    color: rgb(82, 78, 78);
+    
+}
+
+body{
+    background-color: rgba(236, 236, 236, 0.945);
+    font-family: fantasy;
+    padding-left: 50px;
+    border:  20px rgb(145, 28, 92) solid;
+}
+
+.class2{
+    color: rgb(145, 28, 92);
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+    color: rgb(145, 28, 92);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.class3{
+    color: rgb(145, 28, 92);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
