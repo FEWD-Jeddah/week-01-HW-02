@@ -1,16 +1,16 @@
 
     h1 {
-        color: gray;
+        color: darkgreen;
         font-family: sans-serif; 
         text-align: center;
     }
     h2 {
-        color:blue;
+        color:rgb(19, 94, 19)
         font-family: sans-serif;
         
     }
     body {
-        background-color :lightblue;
+        background-color :papayawhip;
         font-family: sans-serif;
         border: 5px solid black;
         padding: 10px;
@@ -21,6 +21,5 @@
         line-height: 150% ;
     } 
 
-    #abeer{
-        color: bisque;
-    }
+    
+    img{content: center;}
