@@ -1,0 +1,24 @@
+h1{ color: rgb(155, 29, 88);
+background-color: floralwhite;
+text-align: center;}
+
+body{background-color: rgb(253, 251, 249);
+border-style: solid;
+border-color: rgb(102, 41, 72);}
+
+h3{text-align: left;
+color: cornsilk;
+background-color: rgb(99, 32, 46);
+padding: 5px;}
+
+p{text-align: left;
+color: rgb(194, 130, 178);
+font-size: larger;
+padding: 10px;}
+
+ul{text-align: left;
+color: rgb(224, 218, 131);
+background-color: rgb(168, 102, 102);
+font-size: medium;}
+.manar{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style:italic;}
