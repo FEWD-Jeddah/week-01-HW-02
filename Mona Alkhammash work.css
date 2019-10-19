@@ -1,0 +1,17 @@
+div {
+  height: 50px;
+  background: linear-gradient(to right, #669999 32%, #00cc99 100%);
+  }
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.8;
+  color: #ffffff;
+  } 
+  img {
+height: 2in;
+position: middle;
+padding: 2px;
+
+  }
+

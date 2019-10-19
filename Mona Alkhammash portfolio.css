@@ -1,0 +1,38 @@
+div {
+  height: 50px;
+  background: linear-gradient(to right, #669999 32%, #00cc99 100%);
+  font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+text-decoration: none;
+color:  #669999;
+}
+
+p{
+  text-align: center;
+  padding: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+div.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #9cb4b4;
+} 
+
+
