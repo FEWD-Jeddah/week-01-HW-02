@@ -7,6 +7,7 @@ h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color:yellow;
 }
+
 ul{
     color: blue;
     font-size: 22px;
@@ -14,3 +15,7 @@ ul{
 .class{ 
 
 }
+h3{
+    color: blue;
+    font-size: 22px;
+   }
