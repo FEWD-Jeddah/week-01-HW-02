@@ -1,0 +1,92 @@
+
+#s{
+    color:black;
+    font-weight: 500;
+    font-size: 7px;
+    height: 10;
+    width: 50px;
+    padding-left: 20px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#up{
+    font-size : 35px;
+    font-weight: 800;  
+
+}
+
+#nam{ 
+    color:#0B6B88;
+    font-size : 90px;
+    font-weight:1000px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    font-size: 20px;
+    color: black;
+    Border-left :10px solid black;
+    height: 400px;
+    margin-left: 60px;
+    padding: 10px;
+    
+}
+
+.btn{
+border: 2px solid black;
+font-size: medium;
+width: 100px;
+height: 40px;
+}
+
+header{
+    align-items: baseline;
+}
+
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+}
+
+
+
+
+
+#Optional{
+    font-size : 2px;
+    Color:rgb(14, 32, 90);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Date{ 
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size : 20px;
+    height: 5px;
+    /*border : 1px slod red; */
+    border-left : 80px solid red;
+    padding-left: 10px; 
+    font-display:bold;
+}
+h2{
+    color: #707070;;
+    font-size : 10px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#i{
+padding-left: 450px;
+}
+
+
+.clicks{
+    color: #707070;;
+    font-size : 10px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   padding-left: 100px; 
+   padding-right:5px; 
+
+}
