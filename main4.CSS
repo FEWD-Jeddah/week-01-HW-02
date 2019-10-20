@@ -1,0 +1,44 @@
+
+strong {
+  color: brown;
+  border: 1px solid red;
+
+}
+
+
+h1{
+    color: royalblue;
+    text-align: center;
+}
+
+
+
+
+
+em{
+    color: rosybrown;
+    background-color: black;
+}
+
+h4{
+
+    color: royalblue
+
+}
+
+
+
+h3{
+
+    color:rosybrown;
+    background-color: black;
+}
+
+ul{
+    color: royalblue;
+    font-family: verdana;
+    font-size: 20;
+
+ border: 1px solid powderblue;
+
+}
