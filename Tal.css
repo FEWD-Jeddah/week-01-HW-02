@@ -73,8 +73,10 @@ h1{
 }
 h2{
     color: #707070;;
-    font-size : 10px;
+    font-size : 15px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   Border-left :10px solid black;
+   height: 40px;
 }
 
 #i{
