@@ -35,7 +35,9 @@
     
 }
 
-
+.t{
+    font-size: 12px;
+}
 .btn{
 border: 2px solid black;
 font-size: medium;
@@ -44,10 +46,11 @@ height: 40px;
 }
 
 
-
-
-
-
+.tracks{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    margin-left: 70px;
+}
 header{
     align-items: baseline;
     padding-left: 20px;
@@ -82,18 +85,17 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size : 20px;
     height: 5px;
-    /*border : 1px slod red; */
-    border-left : 80px solid red;
+    border-left : 50px solid #0B6B88;
     padding-left: 10px; 
     font-display:bold;
 }
 h2{
     color: #0B6B88;
-    font-size : 15px;
+font-size : 15px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    Border-left :10px solid black;
    margin-left: 50px;
-   height: 20px;
+   height: 30px;
    padding-left: 10px;
 }
 
@@ -105,6 +107,13 @@ float:right;
 margin-right: 50px;
 }
 
+#w{
+    width: 450px;
+    height: 500px;
+    padding-left:100px;
+    float:right;
+    margin-right: 50px;
+    }
 h6{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left:50px;
@@ -167,4 +176,8 @@ h4{
    padding-right:5px; 
    
 
+}
+
+.sort{
+    float:right;
 }
